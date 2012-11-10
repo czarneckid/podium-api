@@ -1,0 +1,8 @@
+coverage
+rdoc
+doc
+.vagrant
+.yardoc
+.bundle
+pkg
+*.rdb
